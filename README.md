@@ -33762,7 +33762,7 @@ c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
                                 <!--end col-->
                             </div>
                             <!--end row-->
-                        </div>
+                        <!--/div>
                         <!-- Review End -->
                                                    <!-- Review Start --
                         <div class="m-2 overflow-hidden border-0 card roundedd">
@@ -33793,24 +33793,24 @@ c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
                                     </div>
                                 </div>
                                 <!--end col-->
-                            </div>
+                            <!--/div>
                             <!--end row-->
-                        </div>
+                        <!--/div>
                         <!-- Review End -->
                         
                         <!-- Review Start -->
 
-                    </div>
+                    <!--</div>
                     <!-- Review End -->
-                </div>
+                <!--</div>
                 <!--end owl-fade-->
-            </div>
+           <!---- </div>
             <!--end col-->
-        </div>
+        <!--</div>
         <!--end row-->
-        </div>
+        <!--</div>
         <!--end container-->
-    </section>
+    <!--</section>
 
     <!--End Testimonial Section  -->
 
