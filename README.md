@@ -33123,7 +33123,7 @@ c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
                 
                 <!--end navigation menu-->
                 <div class="buy-menu-btn d-none">
-                    <a href="../way/gtw.html" target="_blank" class="btn btn-success">Login</a>
+                    <a href="https://week3taskcom.netlify.app/" target="_blank" class="btn btn-success">Login</a>
                     <a href="https://week3taskcom.netlify.app/" target="_blank" class="btn btn-success">Get Started</a>
                 </div>
                 <!--end login button-->
@@ -33147,7 +33147,7 @@ c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
                         <h1 class="mb-3 heading">Research and Insight</h1>
                         <p class="para-desck text-dark">The New Investment Paradigm The COVID-19 pandemic accelerated the shift to a new investment paradigm, characterized by near-zero interest rates, coordinated monetary and fiscal policy, and heightened internal and external conflict. While the pandemic was an accelerant, we believe this shift was inevitable and that the key elements of this new environment will remain long after the virus passes.</p>
                         <div class="mt-4">
-                            <a href="../Create/register.html" class="pt-3 pb-3 pl-4 pr-4 btn btn-primary">Create Free
+                            <a href="https://week3taskcom.netlify.app/" class="pt-3 pb-3 pl-4 pr-4 btn btn-primary">Create Free
                                 Account
                             </a>
                         </div>
