@@ -33080,11 +33080,11 @@ c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
     <header id="topnav" class="sticky defaultscroll">
         <div class="container">
             <!-- Logo container-->
-            <div>
+            <!--<div>
                 <a class="logo" href="../homepage/index.html">
                     <img src="../saxo.png" height="170" alt="" class="mr-2">
                 </a>
-            </div>
+            </div>-->
             <div class="buy-button">
 
                 <a href="../way/gtw.html" class="mr-3 btn btn-primary login-btn-success">login</a>
@@ -33575,18 +33575,18 @@ c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
                                 <div class="mt-4">
                                     <a href="../way/gtw.html" class="btn btn-block btn-primary">Buy Now</a>
 
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                                <!--/div>
+                            <!--/div>
+                        <!--/div>
+                    <!--/div>
 
 
                 <!--end col-->
-            </div>
+            <!--/div>
             <!--end row-->
-        </div>
+        <!--/div>
         <!--end container-->
-    </section>
+    <!--/section>
     <!-- End Pricing Section Start -->
 
 
