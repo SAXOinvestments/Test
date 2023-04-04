@@ -1,5 +1,5 @@
 
-
+<!DOCTYPE html>
 <html lang="en">
     <head>       
         <meta charset="utf-8">
@@ -89,9 +89,9 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
 font-size: 1rem;
 font-weight: 400;
 line-height: 1.5;
-color: #212529;
+color: #fbff0b;
 text-align: left;
-background-color: #fff;
+background-color: #8a6868;
 }
 [tabindex="-1"]:focus:not(:focus-visible) {
 outline: 0 !important;
@@ -21433,8 +21433,7 @@ body {
   }
   .mdi-octagram::before {
     content: "\F06F9";
-  }![saxo](https://user-images.githubusercontent.com/129891631/229936680-0c42d549-da77-44dc-93c7-3c4a30e86a2d.png)
-
+  }
   .mdi-octagram-outline::before {
     content: "\F0775";
   }
@@ -33061,7 +33060,7 @@ a.text-primary:focus {
         <link href="line36.css" rel="stylesheet"> --> 
     
 </head>
-<body style="background-color: gray;">
+<body>
     <!--Start of Tawk.to Script-->
     <script type="text/javascript">
     {var _smartsupp = _smartsupp || {};
@@ -33081,11 +33080,11 @@ c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
     <header id="topnav" class="sticky defaultscroll">
         <div class="container">
             <!-- Logo container-->
-          <!--  <div>
+            <div>
                 <a class="logo" href="../homepage/index.html">
                     <img src="../saxo.png" height="170" alt="" class="mr-2">
                 </a>
-            </div>-->
+            </div>
             <div class="buy-button">
 
                 <a href="../way/gtw.html" class="mr-3 btn btn-primary login-btn-success">login</a>
@@ -33117,8 +33116,11 @@ c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
                     <li><a href="#pricing">Pricing</a></li>
                     <li><a href="../about/faq.html">Faq</a></li>
                     <li><a href="../about/contact.html">Contact</a></li>
+
                 </ul>
-		
+
+
+                
                 <!--end navigation menu-->
                 <div class="buy-menu-btn d-none">
                     <a href="../way/gtw.html" target="_blank" class="btn btn-success">Login</a>
@@ -33717,26 +33719,26 @@ c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
         <div class="container mt-100 mt-60">
             <div class="row justify-content-center">
                 <div class="text-center col-12">
-                    <div class="pb-2 mb-4 section-title">
+                    <!--<div class="pb-2 mb-4 section-title">
                         <h4 class="mb-4 title">What our Customer says!</h4>
                         <p class="mx-auto mb-0 text-muted para-desc">Don&#039;t take our word for it, here&#039;s what some of our clients have to say about us</p>
                     </div>
                 </div>
                 <!--end col-->
             </div>
-            <!--end row-->
+            <!--end row--
 
             <div class="mt-4 row justify-content-center">
                 <div class="col-lg-8 col-12">
                     <div id="single-owl" class="owl-carousel owl-theme">
-                                                   <!-- Review Start -->
+                                                   <!-- Review Start --
                         <div class="m-2 overflow-hidden border-0 card roundedd">
                             <div class="row align-items-center no-gutters">
                                 <div class="col-md-5">
                                     <img src="https://gatewaycapitalltd.com/storage/app/public/photos/wIjYaikfD2AzQUJ78ES86yVyUfTP472dRJOsahoi.jpg" class="img-fluid w-75"
                                         alt="">
                                 </div>
-                                <!--end col-->
+                                <!--end col--
 
                                 <div class="col-md-7">
                                     <div class="card-body customer-testi">
@@ -33762,14 +33764,14 @@ c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
                             <!--end row-->
                         </div>
                         <!-- Review End -->
-                                                   <!-- Review Start -->
+                                                   <!-- Review Start --
                         <div class="m-2 overflow-hidden border-0 card roundedd">
                             <div class="row align-items-center no-gutters">
                                 <div class="col-md-5">
                                     <img src="https://gatewaycapitalltd.com/storage/app/public/photos/ALOyu5gNclLR6xP8dT2GqxCYyzeqz32EzcPt7A2R.jpg" class="img-fluid w-75"
                                         alt="">
                                 </div>
-                                <!--end col-->
+                                <!--end col--
 
                                 <div class="col-md-7">
                                     <div class="card-body customer-testi">
