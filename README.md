@@ -33081,11 +33081,11 @@ c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
     <header id="topnav" class="sticky defaultscroll">
         <div class="container">
             <!-- Logo container-->
-            <div>
+          <!--  <div>
                 <a class="logo" href="../homepage/index.html">
                     <img src="../saxo.png" height="170" alt="" class="mr-2">
                 </a>
-            </div>
+            </div>-->
             <div class="buy-button">
 
                 <a href="../way/gtw.html" class="mr-3 btn btn-primary login-btn-success">login</a>
