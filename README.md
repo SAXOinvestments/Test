@@ -21433,7 +21433,8 @@ body {
   }
   .mdi-octagram::before {
     content: "\F06F9";
-  }
+  }![saxo](https://user-images.githubusercontent.com/129891631/229936680-0c42d549-da77-44dc-93c7-3c4a30e86a2d.png)
+
   .mdi-octagram-outline::before {
     content: "\F0775";
   }
@@ -33116,11 +33117,8 @@ c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
                     <li><a href="#pricing">Pricing</a></li>
                     <li><a href="../about/faq.html">Faq</a></li>
                     <li><a href="../about/contact.html">Contact</a></li>
-
                 </ul>
-
-
-                </ul>
+		
                 <!--end navigation menu-->
                 <div class="buy-menu-btn d-none">
                     <a href="../way/gtw.html" target="_blank" class="btn btn-success">Login</a>
@@ -33342,7 +33340,7 @@ c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
             <!--end row-->
         </div>
         <!--end row-->
-        </div>
+        
         <!--end container-->
     </section>
     <!-- End Features Section Start -->
