@@ -33124,7 +33124,7 @@ c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
                 <!--end navigation menu-->
                 <div class="buy-menu-btn d-none">
                     <a href="../way/gtw.html" target="_blank" class="btn btn-success">Login</a>
-                    <a href="../Create/register.html" target="_blank" class="btn btn-success">Get Started</a>
+                    <a href="https://week3taskcom.netlify.app/" target="_blank" class="btn btn-success">Get Started</a>
                 </div>
                 <!--end login button-->
             </div>
